@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "carrot",
+      "type": "vegetable",
+      "calories": "41.3",
+      "protein": "0.9",
+      "fat": "0.2",
+      "carbs": "4.7",
+      "id": 1
+    },
+   {
+      "name": "chicken",
+      "type": "meat",
+      "calories": "287",
+      "protein": "23.2",
+      "fat": "21.6",
+      "carbs": "0.1",
+      "id": 2
+    },
+   {
+      "name": "apple",
+      "type": "fruit",
+      "calories": "52.1",
+      "protein": "0.3",
+      "fat": "0.2",
+      "carbs": "10",
+      "id": 3
+    }
+  ]
+}
